@@ -1,0 +1,6 @@
+celery
+tornado
+python3-pika
+
+[redis]
+tornado-redis

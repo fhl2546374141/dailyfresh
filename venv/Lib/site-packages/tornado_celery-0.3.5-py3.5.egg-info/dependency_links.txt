@@ -1,0 +1,1 @@
+https://github.com/renshawbay/pika-python3/archive/python3.zip#egg=pika-python3
